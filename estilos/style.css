@@ -29,6 +29,7 @@ a {
 
 footer {
     display: flex;
+    flex-wrap: wrap;
     padding: 30px 80px;
     align-items: center;
     max-width: 100%;
